@@ -1,6 +1,9 @@
 # MobileQAFramework
 Mobile QA Automation framework (Java,Selenium,Appium, TestNG)
 Mobile QA Automation Framework - .docx - read full instruction 
+![alt text](https://raw.githubusercontent.com/NonnaD/MobileQAFramework/master/ MobileQAFramework/Framework.png)
+ 
+      
 
 Why do we need framework?
 Framework allows company to save time and money. It makes our code reusable, create it once and execute it multiple times. Framework is very useful for compatibility and regression testing, it enables parallel execution. Framework requires less manual intervention and helps to increase the test coverage.
