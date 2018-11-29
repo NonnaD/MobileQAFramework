@@ -1,7 +1,7 @@
 # MobileQAFramework
 Mobile QA Automation framework (Java,Selenium,Appium, TestNG)
 Mobile QA Automation Framework - .docx - read full instruction 
-![alt text](https://raw.githubusercontent.com/NonnaD/MobileQAFramework/master/ MobileQAFramework/Framework.png)
+![alt text](https://raw.githubusercontent.com/NonnaD/MobileQAFramework/master/MobileQAFramework/Framework.png)
  
       
 
