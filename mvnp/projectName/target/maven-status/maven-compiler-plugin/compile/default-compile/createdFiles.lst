@@ -1,0 +1,9 @@
+pageObjects/NewTransactionPage.class
+listeners/Listener.class
+pageObjects/FirstAccountPage.class
+listeners/TestListener.class
+MyPatterns/ExcelDataProvider.class
+MyPatterns/Watch.class
+MyPatterns/Base.class
+MyPatterns/Calendar.class
+pageObjects/FirstPreference.class

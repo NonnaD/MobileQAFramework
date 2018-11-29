@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Positive TC]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="listeners.TestListener"/>
+  </listeners>
+  <test thread-count="5" name="New transaction withdraw(failed)" verbose="0">
+    <classes>
+      <class name="positiveTC.NewTransactionWithdraw">
+        <methods>
+          <include name="initialize"/>
+          <include name="newTransaction"/>
+          <include name="firstPage"/>
+          <include name="createAccount"/>
+        </methods>
+      </class> <!-- positiveTC.NewTransactionWithdraw -->
+    </classes>
+  </test> <!-- New transaction withdraw(failed) -->
+</suite> <!-- Failed suite [Positive TC] -->

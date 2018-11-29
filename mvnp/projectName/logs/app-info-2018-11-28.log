@@ -1,0 +1,40 @@
+[INFO ] 2018-11-28 17:50:59.082 [main] FirstPreferences - Driver is initialized
+[INFO ] 2018-11-28 22:36:39.743 [main] FirstPreferences - Driver is initialized
+[INFO ] 2018-11-28 22:36:50.166 [main] FirstPreferences - Entered data in 'Account name' field
+[INFO ] 2018-11-28 22:36:51.670 [main] FirstPreferences - Page crolled down
+[INFO ] 2018-11-28 22:36:58.242 [main] FirstPreferences - Entered data in 'Ammount' field
+[INFO ] 2018-11-28 22:37:01.418 [main] FirstPreferences - Currency is selected
+[INFO ] 2018-11-28 22:37:08.695 [main] FirstPreferences - Entered data in 'Description' field
+[INFO ] 2018-11-28 22:37:09.524 [main] FirstPreferences - Account type is selected
+[INFO ] 2018-11-28 22:37:11.813 [main] FirstPreferences - New account is created
+[INFO ] 2018-11-28 22:37:21.347 [main] NewTransactionAdd - Driver is initialized
+[INFO ] 2018-11-28 22:37:53.648 [main] NewTransactionWithdraw - Driver is initialized
+[INFO ] 2018-11-28 23:05:29.490 [main] FirstPreferences - Driver is initialized
+[INFO ] 2018-11-28 23:05:39.699 [main] FirstPreferences - Entered data in 'Account name' field
+[INFO ] 2018-11-28 23:05:41.109 [main] FirstPreferences - Page crolled down
+[INFO ] 2018-11-28 23:05:47.628 [main] FirstPreferences - Entered data in 'Ammount' field
+[INFO ] 2018-11-28 23:05:51.039 [main] FirstPreferences - Currency is selected
+[INFO ] 2018-11-28 23:05:58.355 [main] FirstPreferences - Entered data in 'Description' field
+[INFO ] 2018-11-28 23:05:59.309 [main] FirstPreferences - Account type is selected
+[INFO ] 2018-11-28 23:06:01.718 [main] FirstPreferences - New account is created
+[INFO ] 2018-11-28 23:06:11.389 [main] NewTransactionAdd - Driver is initialized
+[INFO ] 2018-11-28 23:06:21.533 [main] NewTransactionAdd - Entered data in 'Account name' field
+[INFO ] 2018-11-28 23:06:22.961 [main] NewTransactionAdd - Page crolled down
+[INFO ] 2018-11-28 23:06:29.480 [main] NewTransactionAdd - Entered data in 'Ammount' field
+[INFO ] 2018-11-28 23:06:32.757 [main] NewTransactionAdd - Currency is selected
+[INFO ] 2018-11-28 23:06:39.886 [main] NewTransactionAdd - Entered data in 'Description' field
+[INFO ] 2018-11-28 23:06:40.724 [main] NewTransactionAdd - Account type is selected
+[INFO ] 2018-11-28 23:06:43.164 [main] NewTransactionAdd - New account is created
+[INFO ] 2018-11-28 23:06:55.883 [main] NewTransactionAdd - Account selected
+[INFO ] 2018-11-28 23:07:01.800 [main] NewTransactionAdd - Transaction amount is entered
+[INFO ] 2018-11-28 23:07:34.972 [main] NewTransactionAdd - Date is piked
+[INFO ] 2018-11-28 23:07:45.462 [main] NewTransactionAdd - Entered data in 'Payer' field
+[INFO ] 2018-11-28 23:07:56.875 [main] NewTransactionWithdraw - Driver is initialized
+[INFO ] 2018-11-28 23:08:06.786 [main] NewTransactionWithdraw - Entered data in 'Account name' field
+[INFO ] 2018-11-28 23:08:08.227 [main] NewTransactionWithdraw - Page crolled down
+[INFO ] 2018-11-28 23:08:15.091 [main] NewTransactionWithdraw - Entered data in 'Ammount' field
+[INFO ] 2018-11-28 23:08:19.116 [main] NewTransactionWithdraw - Currency is selected
+[INFO ] 2018-11-28 23:08:26.372 [main] NewTransactionWithdraw - Entered data in 'Description' field
+[INFO ] 2018-11-28 23:08:27.191 [main] NewTransactionWithdraw - Account type is selected
+[INFO ] 2018-11-28 23:08:29.575 [main] NewTransactionWithdraw - New account is created
+[INFO ] 2018-11-28 23:09:30.473 [main] NewTransactionWithdraw - Entered data in 'Payee' field

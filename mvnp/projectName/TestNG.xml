@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+<suite name="Positive TC">
+
+    <listeners>
+
+        <listener class-name="listeners.TestListener"/>
+    </listeners>
+
+    <test name="FlightOnly Test">
+        <groups>
+            <run>
+                <include name="FlightOnly"/>
+            </run>
+        </groups>
+    </test>
+
+    <test name="First Preferences">
+        <classes>
+            <class name="positiveTC.FirstPreferences" />
+        </classes>
+    </test>
+
+    <test name="New transaction add">
+        <classes>
+            <class name="positiveTC.NewTransactionAdd" />
+        </classes>
+    </test>
+    <test name="New transaction withdraw">
+        <classes>
+            <class name="positiveTC.NewTransactionWithdraw" />
+        </classes>
+    </test>
+
+
+</suite>
